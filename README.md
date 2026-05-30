@@ -194,9 +194,8 @@ endmodule
 
 | 🎖️ | Achievement | Details |
 |:---:|:------------|:--------|
-| 🔬 | **C-DAC 1-TOPS Semiconductor Tape-out Program** | Cleared Round 1 and attended personal interview for the prestigious C-DAC 1-TOPS chip tape-out program — one of India's top semiconductor training initiatives. |
+| 🔬 | **VSI 1-TOPS Semiconductor Tape-out Program** | Cleared Round 1 and attended personal interview for the prestigious VSI 1-TOPS chip tape-out program — one of India's top semiconductor training initiatives. |
 | 📜 | **Digital Design using Multi-Vt Libraries** | Certification — VLSI Mentors |
-| 📜 | **VLSI Design with EDA Tools & Reconfigurable Architectures** | Certification — LPU (NPTEL) |
 | 📜 | **Tool Command Language (TCL) Workshop** | Certification — VLSI System Design |
 | 📜 | **PCB Skill Development & Training** | Certification — Invocrux Technologies |
 
